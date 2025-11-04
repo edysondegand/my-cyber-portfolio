@@ -17,6 +17,6 @@ Apprendre les fondamentaux de la cybersécurité à travers la pratique :
 - `images/` → captures de mes labs  
 
 ## 🔗 Liens utiles
-- [Mon profil TryHackMe](https://tryhackme.com/p/tonPseudo)
+- [Mon profil TryHackMe]<https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5617087)
 - [Mon profil Hack The Box](https://app.hackthebox.com/users/tonPseudo)
 - [LinkedIn](https://linkedin.com/in/tonProfil)
